@@ -12,6 +12,6 @@ __pycache__/
 
 # Ignore the datasets folder
 Dataset Livrable 1/
-
+Dataset Livrable 2/
 
 touNum_classifier_best.keras
